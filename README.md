@@ -1,5 +1,4 @@
-# eclipse-tracker
-Top 3 To-Do's Tracker For Work/Life Balance
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
